@@ -9,4 +9,4 @@ driver.find_element(By.ID,"user-name").send_keys("ABS")
 driver.find_element(By.ID,"password").send_keys("456")
 driver.find_element(By.ID,"login-button").click()
 # Wait until you press Enter
-input()
+
